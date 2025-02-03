@@ -1,3 +1,3 @@
 # try_Repo
 
-# this repository is for practice.
+# this repository is for practice so do practice.
